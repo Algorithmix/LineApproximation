@@ -33,7 +33,7 @@ namespace LineApproximation
             while (points[firstPoint].Equals(points[lastPoint]))
             {
                 lastPoint--;
-                //might need this following line
+                //might need this following line - RichTia
                 //pointIndexsToKeep.Add(lastPoint);
             }
 
